@@ -8,8 +8,8 @@
   </div>
 </template>
 <style scoped>
-.continer {
-    max-width: 1000px;
-    margin: 0 auto;
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
 }
 </style>
