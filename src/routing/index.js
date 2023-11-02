@@ -1,0 +1,1 @@
+import { createRouter, createWebHistory, RouterLink } from "vue-router";
